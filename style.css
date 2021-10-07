@@ -1,0 +1,100 @@
+.header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 150%;
+    background-color: rgb(240, 240, 240);
+    border: 1px solid grey;
+    padding-top:8px ;
+    padding-bottom: 8px;
+}
+.header{
+    margin-left: 20%;
+    margin-right: 23%;
+}
+.button{
+    margin-left: 20%;
+    margin-right: 23%;
+    border: 1px solid grey;
+    background-color: rgb(240, 240, 240);
+    height:40px;
+    padding-top: 8px;
+}
+.button #left{
+    background-color: rgb(52, 233, 52);
+    color:white;
+    border:1.5px solid green;
+    border-radius: 5px;
+    height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button #right{
+ margin-left:78%;
+ color:white;
+ border:1.5px solid blue;
+ border-radius: 5px;
+ background-color: rgb(54, 176, 252);
+ height: 25px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#nob{
+    display: block;
+    margin-left: 20%;
+    margin-right: 23%;
+    border: 1px solid grey;
+}
+#nob table,tr,th,td{
+padding-right: 65px;
+padding-left:8px;
+padding-bottom: 5px;
+background-color:rgb(240, 240, 240);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size:90%;
+}
+#nob table{
+    margin-left:8px ;
+    border-top:1px solid grey;
+    border-bottom: 1px solid grey;
+}
+.button #right1{
+    margin-left:70%;
+    color:white;
+    border:1.5px solid blue;
+    border-radius: 5px;
+    background-color: rgb(54, 176, 252);
+    height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+#nob label{
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:90%;
+}
+   #nob #input_m{
+       margin-left: 30px;
+       width:93%;
+   }
+   #nob #btn1{
+    margin-top:4px;
+    margin-left:3.3%;
+    margin-bottom: 40px;
+    color:white;
+    border:1.5px solid blue;
+    border-radius: 5px;
+    background-color: rgb(17, 71, 104);
+    height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   #one,#two,#three{
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       color:white;
+       background-color: blue;
+       border:1px solid darkblue;
+       border-radius: 5px;
+       padding:5px;
+   }
+   #bon{
+       display:block;
+    margin-left: 20%;
+    margin-right: 23%;
+    border: 1px solid grey;
+}
